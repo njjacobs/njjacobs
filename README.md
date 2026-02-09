@@ -3,7 +3,7 @@
 
 Location: Houston, TX, USA
 
-My Favorite Fluorophore/Metal-Isotope: PE-Dazzle
+My Favorite Fluorophore/Metal-Isotope: PE-Dazzle 594
 
 Previous Coding Experience: coursera courses in R 
 
